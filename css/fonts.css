@@ -1,0 +1,47 @@
+@font-face {
+    font-family: "BaskervilleMTW01-Roman";
+    src: url("../fonts/BaskervilleMTW01-Roman.eot?#iefix");
+    src: url("../fonts/BaskervilleMTW01-Roman.eot?#iefix") format("eot"), url("../fonts/BaskervilleMTW01-Roman.woff2") format("woff2"), url("../fonts/BaskervilleMTW01-Roman.woff") format("woff"), url("../fonts/BaskervilleMTW01-Roman.ttf") format("truetype"), url("../fonts/BaskervilleMTW01-Roman.svg#60054d7a-8ca2-4320-8c5d-3fc9aed09e58") format("svg")
+}
+
+@font-face {
+    font-family: "Baskerville MT W01 It";
+    src: url("../fonts/Baskerville-MT-W01-It.eot?#iefix");
+    src: url("../fonts/Baskerville-MT-W01-It.eot?#iefix") format("eot"), url("../fonts/Baskerville-MT-W01-It.woff2") format("woff2"), url("../fonts/Baskerville-MT-W01-It.woff") format("woff"), url("../fonts/Baskerville-MT-W01-It.ttf") format("truetype"), url("../fonts/Baskerville-MT-W01-It.svg#411af28e-cf4e-40f2-95f5-98717996908c") format("svg")
+}
+
+@font-face {
+    font-family: "Didot W01 Roman";
+    src: url("../fonts/Didot-W01-Roman.eot?#iefix");
+    src: url("../fonts/Didot-W01-Roman.eot?#iefix") format("eot"), url("../fonts/Didot-W01-Roman.woff2") format("woff2"), url("../fonts/Didot-W01-Roman.woff") format("woff"), url("../fonts/Didot-W01-Roman.ttf") format("truetype"), url("../fonts/Didot-W01-Roman.svg#972bb961-7f13-4e8d-8c1f-034e3f4e7517") format("svg")
+}
+
+@font-face {
+    font-family: "Futura LT W01 Bold";
+    src: url("../fonts/Futura-LT-W01-Bold.eot?#iefix");
+    src: url("../fonts/Futura-LT-W01-Bold.eot?#iefix") format("eot"), url("../fonts/Futura-LT-W01-Bold.woff2") format("woff2"), url("../fonts/Futura-LT-W01-Bold.woff") format("woff"), url("../fonts/Futura-LT-W01-Bold.ttf") format("truetype"), url("../fonts/Futura-LT-W01-Bold.svg#20073de8-56dd-4e4c-9434-5097c3f2fd28") format("svg")
+}
+
+@font-face {
+    font-family: "Trade Gothic Next W01";
+    src: url("../fonts/Trade-Gothic-Next-W01.eot?#iefix");
+    src: url("../fonts/Trade-Gothic-Next-W01.eot?#iefix") format("eot"), url("../fonts/Trade-Gothic-Next-W01.woff2") format("woff2"), url("../fonts/Trade-Gothic-Next-W01.woff") format("woff"), url("../fonts/Trade-Gothic-Next-W01.ttf") format("truetype"), url("../fonts/Trade-Gothic-Next-W01.svg#01ebe944-ca6c-41db-a3ba-b7e2a90536d9") format("svg")
+}
+
+@font-face {
+    font-family: "Trade Gothic W01 Bold";
+    src: url("../fonts/Trade-Gothic-W01-Bold.eot?#iefix");
+    src: url("../fonts/Trade-Gothic-W01-Bold.eot?#iefix") format("eot"), url("../fonts/Trade-Gothic-W01-Bold.woff2") format("woff2"), url("../fonts/Trade-Gothic-W01-Bold.woff") format("woff"), url("../fonts/Trade-Gothic-W01-Bold.ttf") format("truetype"), url("../fonts/Trade-Gothic-W01-Bold.svg#d5153ad4-7c93-4757-9147-640e69ec4801") format("svg")
+}
+
+@font-face {
+    font-family: "Trade Gothic W01 Cn_18";
+    src: url("../fonts/Trade-Gothic-W01-Cn_18.eot?#iefix");
+    src: url("../fonts/Trade-Gothic-W01-Cn_18.eot?#iefix") format("eot"), url("../fonts/Trade-Gothic-W01-Cn_18.woff2") format("woff2"), url("../fonts/Trade-Gothic-W01-Cn_18.woff") format("woff"), url("../fonts/Trade-Gothic-W01-Cn_18.ttf") format("truetype"), url("../fonts/Trade-Gothic-W01-Cn_18.svg#c573d9d0-0726-4b95-aeee-fb621a299563") format("svg")
+}
+
+@font-face {
+    font-family: "TradeGothicW01-BoldCn20_675334";
+    src: url("../fonts/TradeGothicW01-BoldCn20_675334.eot?#iefix");
+    src: url("../fonts/TradeGothicW01-BoldCn20_675334.eot?#iefix") format("eot"), url("../fonts/TradeGothicW01-BoldCn20_675334.woff2") format("woff2"), url("../fonts/TradeGothicW01-BoldCn20_675334.woff") format("woff"), url("../fonts/TradeGothicW01-BoldCn20_675334.ttf") format("truetype"), url("../fonts/TradeGothicW01-BoldCn20_675334.svg#c901ad5f-a842-4549-a1f4-583a97f7e169") format("svg")
+}
